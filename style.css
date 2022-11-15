@@ -1,0 +1,53 @@
+.main{
+   width:80%;
+   height:620px;
+   border:2px solid black;
+   position: relative;
+   left:10%;
+}
+.header{
+   padding-left: 50%;;
+}
+.border{
+   width:90%;
+   height: 350px;
+   border:2px solid black;
+   position: relative;
+   left:5%;
+   top:120px;
+}
+.data{
+   position: relative;
+   left:60%;
+}
+.data1{
+   position: relative;
+   left:60%;
+}
+.data2{
+   position: relative;
+   left:57.8%;
+}
+.data3{
+   position: relative;
+   left:53.8%;
+}
+.data4{
+   position: relative;
+   left:52%;
+}
+.data5{
+ 
+   position: relative;
+   left:65%;
+   top:10px;
+}
+.data6{
+   position: relative;
+   left:75%;
+   top:-26px;
+}
+
+
+ 
+ 
